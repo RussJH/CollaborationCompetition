@@ -34,7 +34,7 @@ Unity brain name: TennisBrain
 
 For this implementation we will be following an implementation of a Deep Deterministic Policy Gradients (DDPG) algorithm to train two agents to play table tennis against each other. 
 
-<img src="Images/table-tennis.gif"  width=50%/>
+<img src="images/table-tennis.gif"  width=50%/>
 
  ## Getting Started
  To interact with this project there are a series of dependencies which you must download and install prior to running the [Tennis.ipynb](./Tennis.ipynb). Once you've installed the dependencies listed below, you can interact with the [Tennis Notebook](./Tennis.ipynb) which will contain several sections to describing the environment, training the agent, and then playing the trained agent in real time. 
