@@ -92,7 +92,7 @@ Batch size | 128 |
 
  The figure below is the plot of the rewards over runs during the training episodes
 
-<img src="Images/table-tennis.PNG"/>
+<img src="images/table-tennis.PNG"/>
 
 > * [Episode 100]	Average Score (Last 100 episodes): 0.0250
 > * ...
