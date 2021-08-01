@@ -33,6 +33,8 @@ For learning the pseudo code was as follows (*Lillicrap, 2015*):
 <img src="images/DDGP_Algorithm.png" width="70%" />
 
 Our implementation used two of the above defined agents with a shared replay buffer based on the Multi-Agent Decentralized Actor (Lowe, 2017):
+
+
 <img src="images/multi-agent_fig1.PNG" width="50%" />
 
 
